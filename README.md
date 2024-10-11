@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm EpicError404</h1>
+<h1 align="center">Hi 👋, I'm Özgün</h1>
 <h3 align="center">A passionate Trader from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epicerror404&label=Profile%20views&color=0e75b6&style=flat" alt="epicerror404" /> </p>
