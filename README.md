@@ -1,3 +1,4 @@
+![snake gif](https://github.com/EpicError404/EpicError404/blob/output/github-contribution-grid-snake.gif)
 <h1 align="center">Hi 👋, I'm Özgün</h1>
 <h3 align="center">A passionate Trader from Türkiye</h3>
 
