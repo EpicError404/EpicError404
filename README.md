@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **PineScript**
 
-- 📫 How to reach me **ozgunkcb@gmail.com**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
